@@ -1,4 +1,16 @@
-=== 1.0.0 / 2010-11-24
+=== 0.1.1 / 2010-12-19
+
+* 1 major enhancement
+
+  * add dependency
+
+=== 0.1.0 / 2010-12-18
+
+* 1 major enhancement
+
+  * moved to pebbles/zenra
+
+=== 0.1.0 / 2010-11-24
 
 * 1 major enhancement
 

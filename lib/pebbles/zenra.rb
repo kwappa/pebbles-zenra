@@ -8,7 +8,7 @@ def z sentence
 end
 
 class Pebbles::Zenra
-  VERSION = '0.1.0'
+  VERSION = '0.1.1'
   @@app_id = ENV['YAHOO_APPID']
 
   def self.app_id
